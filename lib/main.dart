@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
             label: 'Home',
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.videocam),
+            icon: Icon(Icons.mic), // Changed icon to microphone
             label: 'Record',
           ),
           BottomNavigationBarItem(
